@@ -13,7 +13,7 @@
 | Lisensi | GNU GPL 3 |
 
 ## Mulai
-### > NPM
+### > NPM (Release)
 ```txt
 npm i framecss3
 ```
