@@ -13,9 +13,33 @@
 | Lisensi | GNU GPL 3 |
 
 ## Mulai
-### > NPM (Release)
+### CDN
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.css" integrity="sha384-aNWyAFKsiVRes3dxJKqD6yRBKGUwkBCetiiLWulHOLHoD/MpHfDu1W77LOdzAAkb" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.js" integrity="sha384-1EQjYZ6muFdbHRSCZorrtZSyIof2aLBJzKGWPUcObNkoTrds726txjiaSWAwEd0L" crossorigin="anonymous" defer="true"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.min.js" integrity="sha384-LC7plZzeU9UET/paSNIH9pvwywGDR/OHP07p0ii++9841BPetxVbKtnXocr5BVc8" crossorigin="anonymous" defer="true"></script>
+```
+### NPM
 ```txt
 npm i framecss3
+```
+## Starter Template
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.css" integrity="sha384-aNWyAFKsiVRes3dxJKqD6yRBKGUwkBCetiiLWulHOLHoD/MpHfDu1W77LOdzAAkb" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.js" integrity="sha384-1EQjYZ6muFdbHRSCZorrtZSyIof2aLBJzKGWPUcObNkoTrds726txjiaSWAwEd0L" crossorigin="anonymous" defer="true"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.min.js" integrity="sha384-LC7plZzeU9UET/paSNIH9pvwywGDR/OHP07p0ii++9841BPetxVbKtnXocr5BVc8" crossorigin="anonymous" defer="true"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="">Welcome</h1>
+</body>
+</html>
 ```
 ## Creator
 
