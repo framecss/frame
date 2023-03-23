@@ -1,4 +1,4 @@
-# Framecss - CSS Framework
+# CSS Framework Indonesia Inggris
 ## Framecss
 
 [Dokumentasi](https://s3y6vheiqcznao8qvaxh8w.on.drv.tw/doc.html) | | [Release](https://github.com/nelsenpro/framecss) |
@@ -43,7 +43,7 @@ npm i framecss3
 ```
 ## Creator
 
-[Nelsen Niko](https://wa.me/6285328736706/)
+[Nelsen Niko](https://sites.google.com/view/nelsennikoo/nelsenniko)
 
 ## Thanks
 
