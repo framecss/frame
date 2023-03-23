@@ -1,4 +1,0 @@
-<!-- CSS -->
-<link rel="stylesheet" href="data(1)/f.css" type="text/css" media="all" />
-<!-- JS -->
-<script src="data(1)/f.js" type="text/javascript" charset="utf-8" defer="true"></script>
