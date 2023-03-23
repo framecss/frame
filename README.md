@@ -72,4 +72,4 @@ https://drive.google.com/drive/folders/1JV_-Etbssvo6ZtmECErUTLjvCI4JB16Z
 
 ## Thanks
 
-[Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) |
+[Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) | [Swiffy Slider](https://swiffyslider.com/) |
