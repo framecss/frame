@@ -13,6 +13,16 @@
 | Lisensi | GNU GPL 3 |
 
 ## Mulai
+### > NPM
+```txt
+npm i framecss3
+```
+### GIT
+```txt
+git clone https://github.com/nelsenpro/frame.git
+
+
+```
 ### CDN
 ```html
 <!-- CSS -->
