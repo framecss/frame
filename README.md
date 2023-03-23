@@ -17,55 +17,6 @@
 ```txt
 npm i framecss3
 ```
-### GIT
-```txt
-git clone https://github.com/nelsenpro/frame.git
-
-
-```
-### CDN
-```html
-<!-- CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.css" integrity="sha384-GXwBi8p5+kJA01YItxQbfx7B8j5W3XE4874vjPgyuENkwxPajJ3qPpIE36eIPAXv" crossorigin="anonymous">
-<!-- JS -->
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.js" defer="true" integrity="sha384-mmbm6eUwcXeG8ujycrAHzDJUAmBdzQe6MRlr5FpuIbx9SMmiftdN86tccYvMNLhE" crossorigin="anonymous"></script>
-```
-### GDrive & SS
-```html
-<!--CSS -->
-<link rel="stylesheet" href="https://drive.google.com/uc?export=view&id=1JFnlyH1Ipt-IfdCYY-mu-Dz73g1bG8oj" type="text/css" media="all" />
-<!--JS -->
-<script src="https://static.staticsave.com/frame/f.js" defer="true" integrity="sha384-mmbm6eUwcXeG8ujycrAHzDJUAmBdzQe6MRlr5FpuIbx9SMmiftdN86tccYvMNLhE" crossorigin="anonymous"></script>
-```
-## Starter Template
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <!-- CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.css" integrity="sha384-GXwBi8p5+kJA01YItxQbfx7B8j5W3XE4874vjPgyuENkwxPajJ3qPpIE36eIPAXv" crossorigin="anonymous">
-    <!-- JS -->
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/3/data/f(2).min.js" defer="true" integrity="sha384-mmbm6eUwcXeG8ujycrAHzDJUAmBdzQe6MRlr5FpuIbx9SMmiftdN86tccYvMNLhE" crossorigin="anonymous"></script>
-</head>
-<body>
-    <h1>Hello World</h1>
-</body>
-</html>
-```
-
-## Dokumentasi 
-[Lihat Dokumentasi](https://s3y6vheiqcznao8qvaxh8w.on.drv.tw/doc.html)
-## Hore.!! Kamu adalah Developer nya...
-[Edit CSS Code](https://drive.google.com/file/d/1JatzVvZTtn-strvNTT_-Tv_MIc7zmBAo/view?usp=drivesdk) | 
-[Edit JS Code](https://drive.google.com/file/d/17QViFw4pheKAHN2M3mWS1NYXjxuVWwve/view?usp=drivesdk)
-```txt
-https://drive.google.com/drive/folders/1JV_-Etbssvo6ZtmECErUTLjvCI4JB16Z
-```
-
 ## Creator
 
 [Nelsen Niko](https://wa.me/6285328736706/)
