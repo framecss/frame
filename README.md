@@ -9,7 +9,7 @@
 | Nama | Deskripsi |
 | --- | --- |
 | Update | 15-03-2023 |
-| Versi | 3|
+| Versi | 3 Beta|
 | Lisensi | GNU GPL 3 |
 
 ## Mulai
