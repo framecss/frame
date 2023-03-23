@@ -1,0 +1,9 @@
+<!-- CSS -->
+<link rel="stylesheet" href="data/f.css" type="text/css" media="all" />
+
+<!-- JS -->
+<script src="data/f.js" type="text/javascript" charset="utf-8" defer="true"></script>
+<script src="data/slider.js" type="text/javascript" charset="utf-8" defer="true"></script>
+
+<!--Copy JS -->
+<script src="data/cp.js" type="text/javascript" charset="utf-8" defer="true"></script>
