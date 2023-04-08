@@ -50,4 +50,4 @@ npm i framecss3
 
 ## Thanks 👍🙏🤝
 
-[Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) | [Swiffy Slider](https://swiffyslider.com/) | jQuery | D3 | Chart | Plotly |
+[Normalize.css]() | [Animate.css]() | [Fontsawesome]() | [StaticSave]() | [W3schools]() | [Swiffy Slider]() | [jQuery.js] | [D3.js] | [Chart.js] | [Plotly.js] |
