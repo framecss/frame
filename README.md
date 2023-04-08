@@ -15,9 +15,9 @@
 ## Mulai
 ### CDN
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.css">
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.js" defer="true"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.min.js" defer="true"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
 ```
 ### NPM
 ```txt
@@ -31,9 +31,9 @@ npm i framecss3
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.css">
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/f.min.js" defer="true"></script>
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.min.js" defer="true"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
     <title>Document</title>
 </head>
 <body>
@@ -43,8 +43,8 @@ npm i framecss3
 ```
 ## Creator
 
-[Nelsen Niko](https://sites.google.com/view/nelsennikoo/nelsenniko)
+[Nelsen Niko](https://sites.google.com/view/nelsennikoo)
 
 ## Thanks
 
-[Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) | [Swiffy Slider](https://swiffyslider.com/) |
+[Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) | [Swiffy Slider](https://swiffyslider.com/) | jQuery | D3 | Chart | Plotly |
