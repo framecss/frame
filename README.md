@@ -17,7 +17,7 @@
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/slider.js" defer="true"></script>
 ```
 ### NPM
 ```txt
@@ -33,7 +33,7 @@ npm i framecss3
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
     <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/slider.js" defer="true"></script>
     <title>Document</title>
 </head>
 <body>
