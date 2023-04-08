@@ -51,4 +51,4 @@ npm i framecss3
 
 ## Thanks 👍🙏🤝
 
-[Normalize.css]() | [Animate.css]() | [Fontsawesome]() | [StaticSave]() | [W3schools]() | [Swiffy Slider]() | [jQuery.js] | [D3.js] | [Chart.js] | [Plotly.js] |
+[Normalize.css] | [Animate.css] | [Fontsawesome] | [StaticSave] | [W3schools] | [Swiffy Slider] | [jQuery.js] | [D3.js] | [Chart.js] | [Plotly.js] |
