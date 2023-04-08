@@ -13,7 +13,7 @@
 | --- | --- |
 | Update | 15-03-2023 |
 | Versi | 1.1.4 |
-| Lisensi | GNU GPL 3 |
+| Lisensi | MIT |
 
 ## Mulai 🤔
 ### CDN
