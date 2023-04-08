@@ -1,18 +1,21 @@
-# CSS Framework by Framecss - framecss css framework, let's go build your design with framecss3
-## Framecss
+# CSS Framework by Framecss 👈👇
+[![Socket Badge](https://socket.dev/api/badge/npm/package/framecss3)](https://socket.dev/npm/package/framecss3)
+
+⭐ framecss css framework, let's go build your design with framecss3
+## Framecss..?🤗
 [Live Update](https://drive.google.com/file/d/1UZ9aW7NDdSSf49ApIjiBMFBDoP4nnfNR/view?usp=drivesdk) |
 [Dokumentasi]() | Release 1.1.4
 
 <p align="">Framecss adalah CSS Framework yang Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web <i>Responsible</i>. CLASS bisa menggunakan bahasa Indonesia ataupun Inggris. misalnya : class="button" atau class="tombol" dan hasilnya sama. Singkatnya, Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris</p>
 
-## Status
+## Status 🤗
 | Nama | Deskripsi |
 | --- | --- |
 | Update | 15-03-2023 |
 | Versi | 1.1.4 |
 | Lisensi | GNU GPL 3 |
 
-## Mulai
+## Mulai 🤔
 ### CDN
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
@@ -23,7 +26,7 @@
 ```txt
 npm i framecss3
 ```
-## Starter Template
+## Starter Template 😉
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -41,10 +44,10 @@ npm i framecss3
 </body>
 </html>
 ```
-## Creator
+## Creator 🥰
 
 [Nelsen Niko](https://sites.google.com/view/nelsennikoo)
 
-## Thanks
+## Thanks 👍🙏🤝
 
 [Normalize.css](https://necolas.github.io/normalize.css/) | [Animate.css](https://animate.style/) | [Fontsawesome](https://fontawesome.com/) | [StaticSave](https://staticsave.com/) | [W3schools](https://www.w3schools.com/) | [Swiffy Slider](https://swiffyslider.com/) | jQuery | D3 | Chart | Plotly |
