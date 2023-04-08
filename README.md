@@ -26,7 +26,7 @@
 ```txt
 npm i framecss3
 ```
-### see other source on [Gitlab](https://gitlab.com/nelsenpro/frame) | | [NPM]()
+### see other source on [Gitlab](https://gitlab.com/nelsenpro/frame) | | [NPM](https://www.npmjs.com/package/framecss3)
 ## Starter Template 😉
 ```html
 <!DOCTYPE html>
