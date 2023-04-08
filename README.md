@@ -22,6 +22,19 @@
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/slider.js" defer="true"></script>
 ```
+### jQuery.js, D3.js, Chart.js, Typed.js😉
+```html
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/jq.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/d3.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/chart.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/typed.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/plot.js" type="text/javascript" charset="utf-8"></script>
+```
+### Another js🤗
+```html
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/ftema.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/cp.js" type="text/javascript" charset="utf-8"></script>
+```
 ### NPM
 ```txt
 npm i framecss3
