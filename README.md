@@ -1,10 +1,10 @@
 # CSS Framework by Framecss 👈👇
-[![Socket Badge](https://socket.dev/api/badge/npm/package/framecss3)](https://socket.dev/npm/package/framecss3)
+[![Socket Badge](https://socket.dev/api/badge/npm/package/getframecss)](https://socket.dev/npm/package/getframecss)
 
 ⭐ framecss css framework, let's go build your design with framecss3
 ## Framecss..?🤗
 [Live Update](https://drive.google.com/file/d/1UZ9aW7NDdSSf49ApIjiBMFBDoP4nnfNR/view?usp=drivesdk) |
-[Dokumentasi]() | Release 1.1.4
+[Dokumentasi](https://github.com/nelsenpro/fdocs) | Release 1.1.4
 
 <p align="">Framecss adalah CSS Framework yang Menyediakan berbagai macam library CSS untuk keperluan Desain Aplikasi Web <i>Responsible</i>. CLASS bisa menggunakan bahasa Indonesia ataupun Inggris. misalnya : class="button" atau class="tombol" dan hasilnya sama. Singkatnya, Framecss mendukung class dua bahasa yaitu bahasa Indonesia dan bahasa Inggris</p>
 
@@ -16,7 +16,7 @@
 | Lisensi | MIT |
 
 ## Mulai 🤔
-### CDN
+### CDN✅
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.css">
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/frame.js" defer="true"></script>
@@ -35,11 +35,23 @@
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/ftema.js" type="text/javascript" charset="utf-8"></script>
 <script src="https://cdn.jsdelivr.net/gh/nelsenpro/frame/data/cp.js" type="text/javascript" charset="utf-8"></script>
 ```
-### NPM
+### NPM 😍
 ```txt
-npm i framecss3
+npm i getframecss
 ```
-### see other source on [Gitlab](https://gitlab.com/nelsenpro/frame) | | [NPM](https://www.npmjs.com/package/framecss3)
+### Github 👇
+```txt
+git clone https://github.com/nelsenpro/frame.git
+```
+### Zip File 👇
+[Download Zip](https://github.com/nelsenpro/frame/archive/refs/heads/main.zip)
+
+
+### see other source on : 👇
+[Gitlab](https://gitlab.com/nelsenpro/frame) | | [NPM](https://www.npmjs.com/package/getframecss) | | 
+[Sourceforge](https://sourceforge.net/u/bnelsofc/framecss) | |
+[Launchpad](https://code.launchpad.net/~nelsenpro/framecss/+git/frame)
+
 ## Starter Template 😉
 ```html
 <!DOCTYPE html>
